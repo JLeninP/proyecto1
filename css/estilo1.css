@@ -1,0 +1,15 @@
+
+.center {
+    text-align: center;
+    /* border: 3px solid green; */
+}
+
+table, th, td{
+    border: 1px solid;
+    margin: auto;
+}
+
+.reloj{
+    width: 80px;
+    height: 90px;
+}
